@@ -11,6 +11,6 @@ Link to dataset and model on edge impulse -https://studio.edgeimpulse.com/public
 ## Washing Machine Mode Detection-
 The Washing Machine Mode Detection system monitors and analyzes the vibrations produced by a washing machine to determine its current operating mode
 Link to dataset and model on edge impulse - https://studio.edgeimpulse.com/public/192229/live
-Object Position Detection-
+## Object Position Detection-
 This project determines the position of an object using accelerometer data collected from a smartphone. It tracks and classifies various motion types such as circular motion, left-right movement, and up-down movement, as well as when the object is idle.
 Link to dataset and model on edge impulse -https://studio.edgeimpulse.com/public/188122/live
