@@ -5,3 +5,9 @@ Link to dataset and model on edge impulse - https://studio.edgeimpulse.com/publi
 ## Keyword Spotting-
 The project uses machine learning to identify and differentiate between the specified keywords ("hello" and "stop") when spoken, while also distinguishing background noise and other irrelevant inputs as "unknown."
 Link to dataset and model on edge impulse - https://studio.edgeimpulse.com/public/193415/live
+## Sound Spotting -
+This project is designed to accurately detect two specific sounds—"fan" and "faucet"—while distinguishing other sounds as general background noise.
+Link to dataset and model on edge impulse -https://studio.edgeimpulse.com/public/194479/live
+## Washing Machine Mode Detection-
+The Washing Machine Mode Detection system monitors and analyzes the vibrations produced by a washing machine to determine its current operating mode
+Link to dataset and model on edge impulse - https://studio.edgeimpulse.com/public/192229/live
