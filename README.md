@@ -1,2 +1,2 @@
-# EDGE_IMPULSE
-Projects using Edge Impulse
+# EDGE_IMPULSE Projects
+Anime Character Classification - This project is a Raspberry Pi-powered machine learning model designed to classify and identify 9 specific anime characters: Alpha, Gojo, Hisoka, Ichigo, Kirito, Koro Sensei, Mikasa, Naruto and Zoro. Using the power of machine learning, this model efficiently recognizes these anime characters with precision, running seamlessly on a Raspberry Pi.
